@@ -1,0 +1,5 @@
+train: /home/zia/PycharmProjects/numberPlateDetection/Train/images
+val: /home/zia/PycharmProjects/numberPlateDetection/Valid/images
+
+nc: 1  # Number of classes
+names: ['number plate']
